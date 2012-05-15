@@ -17,14 +17,15 @@ NumPy (http://www.scipy.org/Download)
 PySide (http://qt-project.org/wiki/PySideDownloads)
 PySide-QtMultimedia (Included in the PySide binaries on Windows and OSX)
 
-The program can be run with 'python main.py'
+The program can be run with `python main.py`
 
 Usage
 =====
 The visualizer uses sound from your microphone to generate the visuals,
 so make sure your microphone is working.
 
-Controls:
+Controls
+--------
 Esc | Enter and exit full screen mode
 1-9 | Change number of columns displayed
 Q-T | Change color

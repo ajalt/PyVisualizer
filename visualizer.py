@@ -5,7 +5,7 @@ import random
 import time
 
 import numpy as np
-from PySide import QtCore, QtGui, QtMultimedia
+from PySide import QtCore, QtGui
 
 SAMPLE_MAX = 32767
 SAMPLE_MIN = -(SAMPLE_MAX + 1)
